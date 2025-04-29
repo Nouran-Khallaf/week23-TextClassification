@@ -83,3 +83,10 @@ We progressively explore and compare the following methods:
 ```python
 from datasets import load_dataset
 dataset = load_dataset("ag_news")
+
+
+**Nouran Khallaf**  
+Session prepared as part of Week 23 NLP Lab: Text Classification  
+April 2025
+```
+
