@@ -35,6 +35,21 @@ We progressively explore and compare the following methods:
 
 ---
 
+### **Run the Notebook**
+
+To explore and execute the full text classification pipeline:
+
+👉 **[Open the notebook in Google Colab](https://colab.research.google.com/github/Nouran-Khallaf/week23-TextClassification/blob/main/text_classification_demo.ipynb)**
+
+This notebook includes:
+- Data loading & preprocessing  
+- Feature extraction (TF-IDF / FastText / Tokenization)  
+- Model training & evaluation  
+- Performance comparisons and visualization  
+- Bonus quiz & discussion
+
+---
+
 ## Techniques Covered
 
 - **Data Visualization**: class distributions, word clouds  
